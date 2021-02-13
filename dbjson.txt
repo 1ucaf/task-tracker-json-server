@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+        "id": 1,
+        "text": "Cita Médica",
+        "day": "5 de Mayo",
+        "reminder": true
+    },
+    {
+        "id": 2,
+        "text": "Reunión en la Escuela",
+        "day": "6 de Febrero",
+        "reminder": true
+    },
+    {
+        "id": 3,
+        "text": "Comprar comida",
+        "day": "7 de Marzo",
+        "reminder": false
+    }
+  ]
+}
